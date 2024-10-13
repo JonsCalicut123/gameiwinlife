@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+iWin Club - Cổng Game Đổi Thưởng Đẳng Cấp, Ưu Đãi Hấp Dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`iWinClub <https://gameiwin.life/>`_ là cổng game đổi thưởng số 1 tại Việt Nam, nổi bật với phiên bản cập nhật 2024. iWin Club cung cấp các trò chơi đa dạng như Xóc Đĩa, Tiến Lên, Bầu Cua, Tài Xỉu và nhiều trò khác. iWin Club còn hỗ trợ 10 cấp độ VIP với ưu đãi hấp dẫn. Điểm nổi bật của iWin là không thu phí người chơi, cùng hệ thống ví Ngọc và ví Vàng tiện lợi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 14D Trần Mai Ninh, Phường 12, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0965841687. 
 
-Contents
---------
+Email: info@gameiwin.life. 
 
-.. toctree::
+Website: https://gameiwin.life/ 
 
-   usage
-   api
+#iwinclub #trangchuiwinclub #dangkyiwinclub #dangnhapiwinclub #linkiwinclub
